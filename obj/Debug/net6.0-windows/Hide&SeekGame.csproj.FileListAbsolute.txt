@@ -1,0 +1,17 @@
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\bin\Debug\net6.0-windows\Hide&SeekGame.exe
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\bin\Debug\net6.0-windows\Hide&SeekGame.deps.json
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\bin\Debug\net6.0-windows\Hide&SeekGame.runtimeconfig.json
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\bin\Debug\net6.0-windows\Hide&SeekGame.dll
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\bin\Debug\net6.0-windows\Hide&SeekGame.pdb
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.csproj.AssemblyReference.cache
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide_SeekGame.Form1.resources
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.csproj.GenerateResource.cache
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.AssemblyInfoInputs.cache
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.AssemblyInfo.cs
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.csproj.CoreCompileInputs.cache
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.dll
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\refint\Hide&SeekGame.dll
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.pdb
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\Hide&SeekGame.genruntimeconfig.cache
+D:\세컨드바탕화면\세종대\2학년 1학기\C#\projects\Hide&SeekGame\obj\Debug\net6.0-windows\ref\Hide&SeekGame.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Hide&SeekGame/1.0.0": {
+        "runtime": {
+          "Hide&SeekGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hide&SeekGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
